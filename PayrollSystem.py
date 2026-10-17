@@ -1,5 +1,15 @@
 """Hệ thống tính lương và thưởng nhân sự."""
 
+"""
+/****************/  
+
+202418930
+Dương Tùng Lâm
+
+/****************/  
+
+"""
+
 from __future__ import annotations
 
 import re
